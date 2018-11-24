@@ -1,0 +1,5 @@
+luckynumber:
+   path: /lucky/number
+   defaults: {_controller: LuckyController:numberAction}
+   
+
