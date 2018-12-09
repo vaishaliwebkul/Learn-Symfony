@@ -3,9 +3,9 @@
 [![Open Source Helpers](https://www.codetriage.com/vaishaliwebkul/learn-symfony/badges/users.svg)](https://www.codetriage.com/vaishaliwebkul/learn-symfony)
 ![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)
 
-<b> <h1> Introduction? <h1> </b>
+<b>  Introduction?  </b>
 
-<h2> UVdesk Opensource is an Enterprise Helpdesk system built on top of Symfony/PHP framework. <h2>
+<h2> UVdesk Opensource is an Enterprise Helpdesk system built on top of Symfony/PHP framework. </h2>
 
 Why we had done this?
 
