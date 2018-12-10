@@ -19,6 +19,20 @@ UVdesk Opensource is a great approach to reduce agent workload and get live repo
 
 Now, the whole class of PHP/Symfony developers, can also contribute to this project and create your own helpdesk by using any code and make it better for your customers.
 
+<h3> <b> Features </b> <h3>
+<ul>
+<li>Email Piping + unlimited mailbox</li>
+<li>Unlimited support assistants.</li>
+<li>Knowledgebase - self-service portal.</li>
+<li>Tags.</li>
+<li>Prepared responses - manual workflow.</li>
+<li>Brilliant - workflow.</li>
+<li>Live - Reportings.</li>
+<li>Standard Email Templates.</li>
+<li>Brading to promote business.</li>
+<li>Easy integration with apps.</li>
+</ul>
+
 <span style="color:blue"><b> Prerequisite </b> </span>
 
 <p> Before creating your UVDesk Community project, make sure that you're using PHP 7 or higher and have <a href="http://php.net/manual/en/book.imap.php" rel="nofollow">Composer</a> installed. You also need to ensure that you have the following PHP extensions installed: </p>
