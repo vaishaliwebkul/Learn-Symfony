@@ -5,7 +5,7 @@
 
 <b> <h3>  Introduction? </h3> </b>
 
- <a href="https://www.uvdesk.com/en/opensource/"> UVdesk Opensource </a> is an Enterprise Helpdesk system built on top of Symfony/PHP framework.
+ <a href="https://www.uvdesk.com/en/opensource"> UVdesk Opensource </a> is an Saas based Enterprise Helpdesk system built on top of <a href="https://symfony.com/"> Symfony/PHP framework </a>. It assemble all your customer request in one place.
 
 <b> <h3> Why we had done this? </h3> </b>
 
@@ -18,5 +18,12 @@ UVdesk Opensource is a great approach to reduce agent workload and get live repo
 <b> For Developers - </b> This is a guide for all dev guys, to get you started down with Symfony and PHP Framework, which is known for its robustness, scalability, High performance, security, and a Component-based system. 
 
 Now, the whole class of PHP/Symfony developers, can also contribute to this project and create your own helpdesk by using any code and make it better for your customers.
+
+<span style="color:blue"><b>Prerequisite</b></span>
+
+Before creating your UVDesk Community project, make sure that you're using PHP 7 or higher and have Composer installed. You also need to ensure that you have the following PHP extensions installed:
+
+PHP IMAP
+PHP Mailparse
 
 
