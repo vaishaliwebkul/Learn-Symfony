@@ -19,11 +19,12 @@ UVdesk Opensource is a great approach to reduce agent workload and get live repo
 
 Now, the whole class of PHP/Symfony developers, can also contribute to this project and create your own helpdesk by using any code and make it better for your customers.
 
-<span style="color:blue"> Prerequisite </span>
+<span style="color:blue"><b> Prerequisite </b> </span>
 
-Before creating your UVDesk Community project, make sure that you're using PHP 7 or higher and have Composer installed. You also need to ensure that you have the following PHP extensions installed:
-
-PHP IMAP
-PHP Mailparse
+<p> Before creating your UVDesk Community project, make sure that you're using PHP 7 or higher and have <a href="http://php.net/manual/en/book.imap.php" rel="nofollow">Composer</a> installed. You also need to ensure that you have the following PHP extensions installed: </p>
+<ul>
+<li><a href="http://php.net/manual/en/book.mailparse.php" rel="nofollow">PHP IMAP</a></li>
+<li><a href="https://getcomposer.org/" rel="nofollow">PHP Mailparse</a></li>
+</ul>
 
 
