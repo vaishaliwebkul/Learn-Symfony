@@ -38,6 +38,16 @@ think!</p>
 <li>Brading to promote business.</li>
 <li>Easy integration with apps.</li>
 </b> </ul>
+What's Included?
+--------------
+
+The standard distribution comes pre-configured with the following bundles:
+
+  * [**UVDeskCoreBundle**][3] - The core framework bundle for bulding helpdesk solutions
+
+  * [**UVDeskAutomationBundle**][4] - Adds support for workflows and prepared responses to automate any specific operations within your helpdesk system
+
+  * [**UVDeskSupportCenterBundle**][5] - Integrates the easily customizable support center portal to enable users to easily interact with the support staff through your helpdesk system
 
 <span style="color:blue"><b> Prerequisite </b> </span>
 
@@ -50,7 +60,9 @@ think!</p>
 <h3> <b> Installation </b> </h3>
 
 [1]: https://www.uvdesk.com/
-[2]: https://github.com/uvdesk/community-skeleton/issues
+[3]: https://github.com/akshaywebkul/core-framework
+[4]: https://github.com/akshaywebkul/automation-bundle
+[5]: https://github.com/akshaywebkul/support-center-bundle
 
 
 
