@@ -22,8 +22,7 @@ UVdesk Opensource is a great approach to reduce agent workload and get live repo
 
 <b> For Developers - </b> This is a guide for all dev guys, to get you started down with Symfony and PHP Framework, which is known for its robustness, scalability, High performance, security, and a Component-based system. 
 
-<p> Now, the whole class of PHP/Symfony developers, can also contribute to this project and create your own helpdesk by using any code and make it better for your customers. Expect bugs and sharp edges. Please help by trying it out, [reporting][2]
-bugs</a>, and letting us know what you
+<p> Now, the whole class of PHP/Symfony developers, can also contribute to this project and create your own helpdesk by using any code and make it better for your customers. Expect bugs and sharp edges. Please help us by trying it out, <a href="https://github.com/uvdesk/community-skeleton/issues"> reporting bugs</a>, and letting us know what you
 think!</p>
 
 <h3> <b> Features  </h3>
