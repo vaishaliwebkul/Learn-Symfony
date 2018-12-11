@@ -32,6 +32,7 @@ think!</p>
 <li>Knowledgebase - self-service portal.</li>
 <li>Saved Replies - pre-formatted reply templates.</li> 
 <li>Tags.</li>
+<li> Ticket Types. </li>
 <li>Prepared responses - manual workflow.</li>
 <li>Brilliant - workflow.</li>
 <li>Live - Reportings.</li>
