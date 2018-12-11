@@ -40,7 +40,7 @@ think!</p>
 </b> </ul>
 
 
-<h3> **What's Included?** </h3>
+<h3> <b> What's Included? </b> </h3>
 
 
 The standard distribution comes pre-configured with the following bundles:
@@ -78,7 +78,7 @@ $ php bin/console uvdesk:configure-helpdesk
 
 After opening your project in the web browser, navigate to /setup/, where you will be greeted by the web installer to guide you in setting up your project.
 
-<h3> **License** </h3>
+<h3> <b> License </b> </h3>
 
 All libraries and bundles included in the UVDesk Community Edition are released under the <a href="https://opensource.org/licenses/MIT">MIT</a> or <a href="https://opensource.org/licenses/BSD-3-Clause">BSD license </a>.
 
