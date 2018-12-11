@@ -86,9 +86,9 @@ All libraries and bundles included in the UVDesk Community Edition are released 
 
 
 [1]: https://www.uvdesk.com/
-[3]: https://github.com/akshaywebkul/core-framework
-[4]: https://github.com/akshaywebkul/automation-bundle
-[5]: https://github.com/akshaywebkul/support-center-bundle
+[3]: https://github.com/uvdesk/core-framework
+[4]: https://github.com/uvdesk/automation-bundle
+[5]: https://github.com/uvdesk/support-center-bundle
 
 
 
