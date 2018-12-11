@@ -58,6 +58,24 @@ The standard distribution comes pre-configured with the following bundles:
 </ul>
 
 <h3> <b> Installation </b> </h3>
+To create your project, run the following command:
+
+```bash
+$ composer create-project uvdesk/community-skeleton helpdesk-project --stability dev
+```
+
+After creating your project, you can setup the project in the following ways:
+
+**Via Terminal**
+
+```bash
+$ php bin/console uvdesk:configure-helpdesk
+```
+
+**Via Web Installer**
+
+After opening your project in the web browser, navigate to /setup/, where you will be greeted by the web installer to guide you in setting up your project.
+
 
 [1]: https://www.uvdesk.com/
 [3]: https://github.com/akshaywebkul/core-framework
