@@ -38,8 +38,9 @@ think!</p>
 <li>Brading to promote business.</li>
 <li>Easy integration with apps.</li>
 </b> </ul>
-What's Included?
---------------
+
+**What's Included?**
+
 
 The standard distribution comes pre-configured with the following bundles:
 
