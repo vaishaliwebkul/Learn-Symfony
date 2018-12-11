@@ -30,12 +30,13 @@ think!</p>
 <li>Email Piping + unlimited mailbox</li>
 <li>Unlimited support assistants.</li>
 <li>Knowledgebase - self-service portal.</li>
+<li>Saved Replies - pre-formatted reply templates.</li> 
 <li>Tags.</li>
 <li>Prepared responses - manual workflow.</li>
 <li>Brilliant - workflow.</li>
 <li>Live - Reportings.</li>
 <li>Standard Email Templates.</li>
-<li>Brading to promote business.</li>
+<li>Branding to promote business.</li>
 <li>Easy integration with apps.</li>
 </b> </ul>
 
